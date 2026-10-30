@@ -2,6 +2,11 @@
 
 大萝卜（DLB-API）作者 —— 一个 OpenAI 兼容的 AI 模型中转站，面向开发者和 AI 工具用户。
 
+## AI-Assisted Client Delivery
+
+- 🧭 [Client delivery portfolio](https://github.com/ElilmA/ai-client-delivery-portfolio) — sanitized Codex-accelerated full-stack, RAG and legacy-system case studies.
+- 📦 Public AI work: [EdgeRAG Support](https://github.com/ElilmA/edge-rag-support) · [TenderFit UK](https://github.com/ElilmA/tenderfit-uk) · [Java Order Reliability Lab](https://github.com/ElilmA/java-order-reliability-lab)
+
 ## 大萝卜 · DLB-API
 
 - 🌐 官网 / 新手入口：https://daluobo.cc.cd/start
