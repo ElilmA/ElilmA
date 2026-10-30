@@ -4,8 +4,8 @@
 
 ## AI-Assisted Client Delivery
 
-- 🧭 [Live client delivery portfolio](https://elilma.github.io/ai-client-delivery-portfolio/) — Codex-accelerated RAG, multilingual website and full-stack products.
-- 🗂️ [Portfolio case files](https://github.com/ElilmA/ai-client-delivery-portfolio) — sanitized project details and verification notes.
+- 🧭 [Personal portfolio and project index](https://elilma.github.io/ai-client-delivery-portfolio/) — live products, client systems, AI tools and labs.
+- 🗂️ [Portfolio source](https://github.com/ElilmA/ai-client-delivery-portfolio) — project catalog, real screenshots and sanitized case studies.
 - 📦 Public AI work: [EdgeRAG Support](https://github.com/ElilmA/edge-rag-support) · [TenderFit UK](https://github.com/ElilmA/tenderfit-uk) · [Java Order Reliability Lab](https://github.com/ElilmA/java-order-reliability-lab)
 
 ## 大萝卜 · DLB-API
