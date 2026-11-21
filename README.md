@@ -10,13 +10,16 @@
 
 ## 大萝卜 · DLB-API
 
-- 🌐 官网 / 新手入口：https://daluobo.cc.cd/start
-- 💰 模型与价格（GPT-5.5 / Claude / Gemini / DeepSeek 等 30 个模型）：https://daluobo.cc.cd/pricing
-- 🧩 接入示例（curl / Python / Node.js）：[daluobo-api-examples](https://github.com/ElilmA/daluobo-api-examples)
-- 📦 主仓库（公告与说明）：[daluobo](https://github.com/ElilmA/daluobo)
+**一个 Key 调用 GPT / Claude / Gemini / Grok / DeepSeek。1:1 计价，比官方最高便宜 95%，含无审查模型。**
 
-注册即送 $0.5 体验额度；每日签到领随机额度；邀请好友完成首充，双方各得奖励（限时双倍 $1/人，至 10 月 28 日）。
+- 🌐 官网：https://daluobo.cc.cd
+- 💰 实时价格：https://daluobo.cc.cd/pricing
+- 🚀 注册领 $0.5：https://daluobo.cc.cd/sign-up?aff=PaJj
+- 🧩 接入示例（curl / Python / Node.js）：[daluobo-api-examples](https://github.com/ElilmA/daluobo-api-examples)
+- 📦 主仓库：[daluobo](https://github.com/ElilmA/daluobo)
+
+注册即送 $0.5 体验额度，每日签到领随机额度，邀请好友完成首充双方各得 $1。
 
 ---
 
-I build **[DLB-API](https://daluobo.cc.cd)** — an OpenAI-compatible AI API relay for developers: GPT / Claude / Gemini / DeepSeek behind one `base_url`. Free credits on sign-up, daily check-in bonus, and referral rewards. Integration examples: [daluobo-api-examples](https://github.com/ElilmA/daluobo-api-examples).
+I build **[DLB-API](https://daluobo.cc.cd)** — an OpenAI-compatible AI API relay: GPT / Claude / Gemini / Grok / DeepSeek behind one `base_url`, 1:1 USD pricing, up to 95% below official rates, plus uncensored DeepSeek models. Free credits on sign-up and referral rewards. Examples: [daluobo-api-examples](https://github.com/ElilmA/daluobo-api-examples).
